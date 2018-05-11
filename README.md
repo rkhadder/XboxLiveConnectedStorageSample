@@ -2,7 +2,7 @@
 ## A sample that demostrates how to save and load data from connected storage
 
 * [tutorial](https://www.youtube.com/watch?v=CgzYb9yHThA)
-* [xbox live plugin](https://github.com/Microsoft/xbox-live-unity-plugin)
+* [xbox live plugin](https://github.com/Microsoft/xbox-live-unity-plugin) ([releases](https://github.com/Microsoft/xbox-live-unity-plugin/releases))
 * [creators program](https://www.xbox.com/en-US/developers/creators-program)
 * [connected storage docs](https://docs.microsoft.com/en-us/windows/uwp/xbox-live/storage-platform/connected-storage/connected-storage-overview)
 
